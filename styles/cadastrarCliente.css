@@ -1,0 +1,31 @@
+titulo{
+background-color: red;
+font-size: 40px;
+}
+label{
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+form{
+    text-align: center;
+    background-color: cadetblue;
+}
+input{
+    background-color: rgb(168, 168, 168);
+    width: 30%;
+}
+#botao{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-weight: bold;
+    margin-top: 1%;
+    margin-left: 274px;
+}
+#botao:hover{
+    background-color: rgb(133, 0, 0);
+}
